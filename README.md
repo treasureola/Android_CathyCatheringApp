@@ -57,13 +57,6 @@ The app leverages **Firebase Realtime Database** for user authentication, cart m
 ---
 
 ## Video Demonstration
-After converting your `.mov` file to `.mp4` and uploading it to the repo root, this embedded player will work:
 
 <video src="cathy_catering_demo.mp4" controls width="720"></video>
 
----
-
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/treasureola/Android_CathyCatheringApp.git
