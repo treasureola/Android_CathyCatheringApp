@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="creamy_yellow">#FFF0E0</color>
+    <color name="soft_pink"> #FFB6C1</color>
+    <color name="Creamy_white"> #FFF0E0</color>
+    <color name="Dark_Chocolate_Brown"> #48382B</color>
+    <color name="Golden_yellow"> #FFD700</color>
+    <color name="Bright_Orange"> #FFFF00</color>
+    <color name="Cordovan"> #764248</color>
+    <color name="Wine"> #69353F</color>
+</resources>

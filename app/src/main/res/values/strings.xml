@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CathyCatering</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="language_setting">Language Setting</string>
+</resources>
