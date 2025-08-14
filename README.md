@@ -58,9 +58,7 @@ The app leverages **Firebase Realtime Database** for user authentication, cart m
 
 ## Video Demonstration
 
-<video src="cathy_catering_demo.mp4" controls width="720"></video>
 <video width="600" controls>
   <source src="videos/cathy_catering_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
