@@ -57,8 +57,4 @@ The app leverages **Firebase Realtime Database** for user authentication, cart m
 ---
 
 ## Video Demonstration
-
-<video width="600" controls>
-  <source src="videos/cathy_catering_demo.mp4" type="video/mp4">
-</video>
-
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/username/repository/issues/1#issuecomment-123456789)
