@@ -56,5 +56,5 @@ The app leverages **Firebase Realtime Database** for user authentication, cart m
 
 ---
 
-## Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]((https://github.com/treasureola/Android_CathyCatheringApp/blob/main/cathy_catering_demo.mp4))
+## Video Demonstration is among the files
+
